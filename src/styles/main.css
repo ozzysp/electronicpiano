@@ -13,6 +13,13 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
+.container header {
+    color: #828282;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 header h2 {
     font-size: 1.6rem;
 }
